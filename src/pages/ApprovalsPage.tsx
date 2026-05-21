@@ -1,5 +1,5 @@
 import { useState, useMemo } from "react";
-import { Search, CheckCircle, XCircle, Filter, Clock, AlertTriangle, UserCheck } from "lucide-react";
+import { Search, CheckCircle, XCircle, Filter, UserCheck } from "lucide-react";
 import { useApp } from "../context/AppContext";
 import { CreateEntryModal } from "../components/CreateEntryModal";
 
